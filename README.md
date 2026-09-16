@@ -8,4 +8,4 @@ git remote -v = to verify the remote is link or not.
 git branch - to check the on which system we are working .
 git branch -M (rename) = rename from master to main the branch.
 git push -u origin main - to set the origin to only main to use directly git push.
-git push origin main - to puch files from local tpo github repo.
+git push origin main - to puch files from local to github repo...
